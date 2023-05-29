@@ -124,80 +124,97 @@ sns.boxplot(x="height",data=df5)
 # OUTPUT:
 
 # DATASET FOR bhp.csv
+![Screenshot 2023-05-29 214554](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/6eea1256-e6af-4ffb-be16-1b51cae6a1dd)
 
-![output](/1.png)
+
 
 # bhp Boxplot
+![Screenshot 2023-05-29 214603](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/a83d892a-9438-4b77-ae6e-ec218496f63a)
 
-![output](/2.png)
+
 
 # DATASET BOXPLOT WITH OUTLIERS(BHP)
 
-![output](/3.png)
+![Screenshot 2023-05-29 214610](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/8ebca5fb-5531-48f5-a8ae-12be0f03c072)
+
 
 # DATASET WITHOUT OUTLIERS(BHP)
 
-![output](/4.png)
+![Screenshot 2023-05-29 214622](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/6b98d503-ded1-4b08-b06a-733ea005b388)
 
-![output](/5.png)
+![Screenshot 2023-05-29 214632](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/6fc7b5c2-8b0c-4e35-95dc-d35d6e81b880)
+
+
 
 # DATASET BOXPLOT WITHOUT OUTLIERS(BHP)
+![Screenshot 2023-05-29 214729](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/759267fb-366d-468c-b7d8-148283105dc4)
 
-![output](/6.png)
 
 # Shape
+![Screenshot 2023-05-29 214733](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/7ed07457-0b92-4488-b7c5-be2267ab6f9d)
 
-![output](/7.png)
+
 
 # DATASET AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
 
-![output](/8.png)
+![Screenshot 2023-05-29 214740](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/cc461934-88b4-43db-9545-4b68ba147f4c)
+
 
 # Shape
+![Screenshot 2023-05-29 214746](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/71c1a6fd-7b35-4ad3-bb9b-8973cbc9eaf9)
 
-![output](/9.png)
+
 
 # DATASET BOXPLOT AFTER REMOVAL OF OUTLIERS USING Z-SCORE(BHP)
 
-![output](/10.png)
+![Screenshot 2023-05-29 214751](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/49f13f9b-7f03-4c4e-aadc-013f40d681be)
 
 # DATASET FOR WEIGHT_HEIGHT_CSV
 
-![output](/11.png)
+![Screenshot 2023-05-29 214759](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/81f84442-a80f-4c98-abda-bdf15d9da0de)
+
 
 # DATASET BOXPLOT WITH OUTLIERS(WEIGHT_HEIGHT)
+![Screenshot 2023-05-29 214804](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/68cfe534-71e8-4c26-b53f-0f12f5bbd627)
 
-![output](/12.png)
+
 
 # DATASET AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT)
 
-![output](/13.png)
+![Screenshot 2023-05-29 214808](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/dda54a89-a337-47d1-bb74-0922f47ba1b4)
 
-![output](/14.png)
+![Screenshot 2023-05-29 214815](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/34c94dab-c0cf-4e65-b92c-de1eaaa0d3c0)
+
+
 
 # SHAPE
 
-![output](/15.png)
+![Screenshot 2023-05-29 214820](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/89dff744-2352-41b7-9ef2-f827217bc69e)
+
 
 # DATASET BOXPLOT AFTER REMOVING OUTLIERS USING IQR METHOD(WEIGHT_HEIGHT)
 
-![output](/16.png)
+![Screenshot 2023-05-29 214827](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/097b521f-1988-489b-b4e5-6a04cceace68)
 
 # FOR HEIGHT COLUMN WITH OUTLIERS
 
-![output](/17.png)
+![Screenshot 2023-05-29 214832](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/073565bc-a62f-415d-81bd-cf9f8acd006b)
+![Screenshot 2023-05-29 214841](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/6d766ad8-b70a-432d-85f4-2cc062c0b458)
 
-![output](/18.png)
 
-![output](/19.png)
+![Screenshot 2023-05-29 214849](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/a09d7046-3d53-4b24-91c3-28502d6f2ca2)
+
+
+
 
 # Shape
+![Screenshot 2023-05-29 214854](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/79da551e-14bf-4458-88c1-b05181be103c)
 
-![output](/20.png)
 
 # AFTER REMOVING OUTLIERS BOXPLOT FOR HEIGHT
+![Screenshot 2023-05-29 214859](https://github.com/Nagul71/Ex02-Outlier/assets/118661118/3e67923e-b6ae-4cf5-a103-ab5088b95185)
 
-![output](/21.png)
+
 
 # Result:
 
